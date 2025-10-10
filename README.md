@@ -1,10 +1,8 @@
 # 👋 Olá, eu sou o Mateus Silva
 
-🎓 **Estudante de Ciências da Computação (6º semestre)**
-
-📊 **Focado em Análise de Dados, Automação e Visualização de Informações**
-
-💡 Busco transformar dados em insights que facilitem decisões e otimizem processos.
+Sou apaixonado por tecnologia e pelo potencial dos dados para resolver problemas reais.  
+Atualmente, estou desenvolvendo projetos com **Python**, **SQL** e **Power BI**, unindo análise, banco de dados e automação.  
+Gosto de aprender novas ferramentas, organizar informações e criar soluções práticas e intuitivas.  
 
 ---
 
