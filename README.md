@@ -40,14 +40,18 @@
 ### 🏥 [Fila Saúde](https://github.com/mateussxz/fila_saude)
 Protótipo de sistema de **Fila Inteligente** para postos de saúde, com **Python + MySQL**.
 Permite cadastrar pacientes, definir prioridades e visualizar a fila em tempo real.
+
 🔹 Interface em Tkinter 
+
 🔹 CRUD completo integrado ao banco de dados
 
 ---
 
 ### 🌆 [Problemas Urbanos](https://github.com/mateussxz/projeto-problemas-urbanos)
 Sistema para registrar e visualizar problemas urbanos em Recife, desenvolvido em **Python + Streamlit**.
+
 🔹 Registro de ocorrências (buracos, iluminação, lixo, trânsito) com data e localização
+
 🔹 Visualização em mapa interativo e tabela filtrável
 
 ---
@@ -62,6 +66,7 @@ Sistema para registrar e visualizar problemas urbanos em Recife, desenvolvido em
 ## 📫 Contato
 
 📧 **mateus.u2003@outlook.com**
+
 🔗 [LinkedIn](https://www.linkedin.com/in/mmateussilva)
 
 <!--
