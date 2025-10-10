@@ -11,9 +11,13 @@
 ## 🧠 Sobre mim
 
 🐍 Desenvolvimento em Python para análise de dados e automação
+
 💾 Manipulação e consultas em SQL para bancos MySQL
+
 📊 Criação de dashboards e relatórios interativos em Power BI e Excel
+
 ⚙️ Automação de processos e pipelines simples para geração de dados
+
 📈 Interesse em análise preditiva, visualização de dados e melhoria de processos
 
 ---
